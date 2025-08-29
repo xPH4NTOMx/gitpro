@@ -1,0 +1,1 @@
+สรุปการใช้ git reset และ amend
